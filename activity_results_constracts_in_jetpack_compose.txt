@@ -1,0 +1,1 @@
+https://fvilarino.medium.com/using-activity-result-contracts-in-jetpack-compose-14b179fb87de
