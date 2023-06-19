@@ -1,0 +1,1 @@
+https://cqrs.wordpress.com/documents/events-as-storage-mechanism/
